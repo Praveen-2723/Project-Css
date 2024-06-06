@@ -12,7 +12,8 @@ background-size: cover;
 }
 
 body{
-    width: auto;
+    width: 100%;
+    background-color: antiquewhite;
 }
 .header{
     height: 120px;
